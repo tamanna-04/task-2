@@ -1,2 +1,2 @@
 # task-2
-This is a sample GitHub repository
+This is a GitHub repository for task 2 of SCM course
